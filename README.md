@@ -25,7 +25,7 @@ Gqeberha, South Africa &nbsp;|&nbsp; BTech IT, Nelson Mandela University (gradua
 | **Maintenance work-order platform** <br><sub>C# Web API, Next.js, SQL Server</sub> | Tenant fault intake, dispatch to specialist teams, client sign-off and supervisor review with a full audit trail | Live at **7 properties**, **235+** job cards, saves the team **4 hours a day** |
 | **Municipal payments records system** <br><sub>C#, .NET Framework, Windows Forms</sub> | Replaced paper invoices with a searchable records system, archive captured back to 2016 | **30-40** document batches processed daily since Sep 2024 |
 | **[CampusSwap](https://campusswap.co.za)** <br><sub>React, ASP.NET Core, PostgreSQL, SignalR, AWS</sub> | Student marketplace with escrow payments, real-time messaging and verified student sign-up | Built for **15,000+** students at Nelson Mandela University |
-| **[Bay Software](https://baysoftware.co.za) client systems** <br><sub>ASP.NET Core, Next.js, Supabase</sub> | Transport booking with automated WhatsApp confirmations, and a live client delivery portal | Delivered for **2 paying clients** |
+| **[Bay Software](https://www.baysoftware.co.za) client systems** <br><sub>ASP.NET Core, Next.js, Supabase &nbsp;|&nbsp; [GitHub org](https://github.com/Bay-Software-Pty-Ltd)</sub> | Transport booking with automated WhatsApp confirmations, and a live client delivery portal | Delivered for **2 paying clients** |
 
 <sub>Most production code above is private to clients and employers. Happy to walk through the architecture in an interview.</sub>
 
