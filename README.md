@@ -6,7 +6,7 @@ I take software from requirements to production, and keep it running.
 Gqeberha, South Africa &nbsp;|&nbsp; BTech IT, Nelson Mandela University (graduating Dec 2026) &nbsp;|&nbsp; **Available from January 2027**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-bantubeya.vercel.app-1f883d?style=flat-square)](https://bantubeya.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-bantu--bethu--beya-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bantu-bethu-beya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bantu--Bethu%20Beya-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bantu-bethu-beya-05331b223/)
 [![Email](https://img.shields.io/badge/Email-bantubeya27%40gmail.com-24292f?style=flat-square&logo=gmail&logoColor=white)](mailto:bantubeya27@gmail.com)
 
 ---
